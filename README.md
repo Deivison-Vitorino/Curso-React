@@ -1,2 +1,2 @@
 # Curso-React
-Módulo de react no curso de desenvolvedor Full Stack JavaScript
+Módulo de react no curso de desenvolvimento Full Stack JavaScript
