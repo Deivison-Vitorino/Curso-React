@@ -1,1 +1,2 @@
-primeiiro projeto react = [https://nebulous-downtown.surge.sh/]()
+Primeira aula de react, aprendo o npx create-react-app...
+Link do projeto no surge[https://nebulous-downtown.surge.sh/]()
