@@ -1,9 +1,11 @@
-Atividades React
+Aula 14 - Navegação entre páginas
 
-1. Criar um map no estado de tags
-2. Criar uma nova tag a partir de um input controlado que
-manda dados para a função put no campo “name”
-3. Em cada tag renderizada no map passar a função deleteTag
-(lembrar de passar por parâmetro o gid da tag)
+● Páginas em React <br>
+● O que são Rotas <br>
+● React Router <br>
+● Organização das pastas e arquivos <br>
+● NavLink <br>
+● useParams <br>
+● Surge com Rotas <br>
 
-Ling do surge: limping-bells.surge.sh
+Ling do surge: https://amuck-steel.surge.sh/
