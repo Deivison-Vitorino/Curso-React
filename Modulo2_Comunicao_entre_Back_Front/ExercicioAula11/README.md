@@ -1,4 +1,4 @@
-Atividades React
+Exercício aula 11, integração entre back end e front end utilizando API do Asana
 
 1. Criar um map no estado de tags
 2. Criar uma nova tag a partir de um input controlado que
