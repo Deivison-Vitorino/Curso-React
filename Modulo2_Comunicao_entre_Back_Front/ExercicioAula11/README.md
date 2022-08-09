@@ -6,4 +6,4 @@ manda dados para a função put no campo “name”
 3. Em cada tag renderizada no map passar a função deleteTag
 (lembrar de passar por parâmetro o gid da tag)
 
-Ling do surge: limping-bells.surge.sh
+Link da Atividade no Surge: https://quick-stomach.surge.sh/
