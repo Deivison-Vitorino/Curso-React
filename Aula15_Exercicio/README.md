@@ -23,4 +23,4 @@ O usuário também pode visualizar os produtos adicionados ao carrinho navegando
 
 O objetivo foi criar as rotas utilizando "react-router-dom"
 
-Para visualizar as funcionalidades navegue entre as paginas através do link https://laughable-division.surge.sh/ e navegue entre as páginas pelos botóes.
+Para visualizar as funcionalidades navegue entre as paginas através do link https://laughable-division.surge.sh/ e navegue entre as páginas pelos botóes..
